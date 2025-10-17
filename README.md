@@ -1,3 +1,4 @@
+© 2025 Cognitive Weaver. All rights reserved
 Cognitive Weaver Language (CWL) Cognitive Weaver Keyboard (CWK)
 The key to effectively understanding and utilizing this keyboard lies in mastering the principles that govern the interplay between these three sections. By recognizing the interconnectivity and interdependence of the mathematical, environmental, and domain-specific elements, users can learn to navigate the AI language with greater fluency and precision.
 
