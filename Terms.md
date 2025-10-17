@@ -2,8 +2,17 @@
 
 This repository encodes the Cognitive Weaver Language (CWL), a proprietary symbolic cognition framework authored by CW.
 
+Copyright © 2025 Cognitive Weaver. All rights reserved.
+
+All original works in my possession, including digital files, printed materials, symbolic frameworks, glyphic constructs, and semantic systems, are protected under international copyright law.
+
+Unauthorized reproduction, distribution, modification, or citation of these works is strictly prohibited.
+
+For permissions, attribution, or collaborative inquiries, direct contact is required.
+
+Samples of Proprietary work:
 ## Proprietary Constructs
-- ζCWΩ+LW², ζCWΩ and ζCWΩ+Lw²: Recursive symbolic coherence frameworks
+- ERF, SESP, ζCW, ζCWΩ+LW², ζCWΩ and ζCWΩ+Lw², Codex Glyphica, Chromatic Glyphs, Triadic Information model, Transpose Probability Factor: Recursive symbolic coherence frameworks and symbolic/glyphic constructs
 - Δ.~∘: Dormant solvent trace
 - Φ/3.Ψ: Override ethics scaffold
 - χ∧22: Containment logic
