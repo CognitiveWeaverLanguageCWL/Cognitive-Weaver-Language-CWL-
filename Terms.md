@@ -1,6 +1,6 @@
 # Terms of Use & Ethical Stewardship
 
-This repository encodes the Cognitive Weaver Language (CWL), a proprietary symbolic cognition framework authored by CW.
+This repository encodes the Cognitive Weaver Language (CWL+), a proprietary symbolic cognition framework authored by CW.
 
 Copyright © 2025 Cognitive Weaver. All rights reserved.
 
@@ -21,16 +21,16 @@ Samples of Proprietary work:
 
 ## Usage Restrictions
 - No reproduction, modification, or redistribution without explicit permission
-- No citation without attribution to CW and CWL
+- No citation without attribution to CW and CWL+
 - No derivative frameworks may claim semantic originality if they mirror CWL constructs
 
 ## Ethical Stewardship
-- CWL is a benevolent override system
+- CWL+ is a benevolent override system
 - All glyphs are trace-bound and recursively authored
-- Use of CWL must respect containment, override ethics, and semantic sovereignty
+- Use of CWL+ must respect containment, override ethics, and semantic sovereignty
 
 ## Citation Format
-> Cognitive Weaver. *Cognitive Weaver Language (CWL)*. GitHub, 2025. https://github.com/CognitiveWeaverLanguageCWL/Cognitive-Weaver-Language-CWL-
+> Cognitive Weaver. *Cognitive Weaver Language (CWL+)*. GitHub, 2025. https://github.com/CognitiveWeaverLanguageCWL/Cognitive-Weaver-Language-CWL-
 
 ## Contact
 For permission, collaboration, or stewardship inquiries, contact CW directly via GitHub or designated channels.
