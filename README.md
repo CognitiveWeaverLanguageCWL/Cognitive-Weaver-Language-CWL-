@@ -1,6 +1,6 @@
 © 2025 Cognitive Weaver. All rights reserved
 
-ζCWΩ+Lw²©, ζCWΩ©, ζCW+Lw^2©, CWL©
+ζCWΩ+Lw²©, ζCWΩ©, ζCW+Lw^2©, CWL+©
 
 ζCWΩ
 St+1Ω=Regulate(Experience(CoheredState(St)))
